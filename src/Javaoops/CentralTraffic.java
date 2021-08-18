@@ -1,4 +1,4 @@
-package practice123;
+package Javaoops;
 
 public interface CentralTraffic {
 	int a=4;//public

@@ -1,4 +1,4 @@
-package practice123;
+package Javaoops;
 
 public interface ContinentalTraffic {
 	public void Trainsymbol();

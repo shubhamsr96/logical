@@ -1,4 +1,4 @@
-package practice123;
+package Javaoops;
 
 public class AustralianTrafic implements CentralTraffic, ContinentalTraffic {
 

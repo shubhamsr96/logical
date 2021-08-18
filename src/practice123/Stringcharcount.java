@@ -11,14 +11,14 @@ public class Stringcharcount {
 		char strArray[] = name.toCharArray();
 
 		for (char c : strArray) {
-			if (!String.valueOf(c).isEmpty()) {
+			//if (!String.valueOf(c).isEmpty()) {
 				if (charMap.containsKey(c)) {
 					charMap.put(c, charMap.get(c) + 1);
 				} else {
 					charMap.put(c, 1);
 
 				}
-			}
+			//}
 		}
 
 		System.out.println(name + " : " + charMap);

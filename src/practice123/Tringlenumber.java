@@ -11,7 +11,7 @@ public class Tringlenumber {
 			
 			for (int j = 0; j < i; j++) {
 				
-				System.out.print(a+" ");
+				System.out.print(a+"  ");
 				a++;
 				
 			}

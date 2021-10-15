@@ -17,5 +17,7 @@ public class reversstring {
 		          .map(s -> new StringBuilder(s).reverse())
 		          .collect(Collectors.joining(" "));
 		System.out.println(result);
+		
+	//String("shubham").stream().map(s -> new String(s).reverse()).forEach(s -> System.Out.Print(s));
 	}
 }
